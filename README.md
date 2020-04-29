@@ -5,7 +5,7 @@
 1) линейная и логистическая регрессии
 2) случайный лес
 3) градиентный бустинг
-4) word2vec/doc2vec/fasttext/elmo/BERT
+4) word2vec
 5) NER
 6) doc2vec
 7) fasttext
